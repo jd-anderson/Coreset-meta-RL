@@ -1,8 +1,8 @@
-# Meta-Learning Linear Quadratic Regulators: A Policy Gradient MAML Approach for the Model-free LQR
+# Coreset-Based Task Selection for Sample-Efficient Meta-Reinforcement Learning
 
-This repository includes the Python codes to implement the experimental results of the following paper:
+This repository includes the Python codes to implement the numerical validation of the following paper:
 
-1) L. F. Toso, D. Zhan, J. Anderson, and  H. Wang (2024). [Meta-Learning Linear Quadratic Regulators: A Policy Gradient MAML Approach for the Model-free LQR](https://github.com/jd-anderson/MAML-LQR/blob/main/MAML_LQR_technical_report.pdf)
+1)  D. Zhan, L. F. Toso, and J. Anderson (2024). [Coreset-Based Task Selection for Sample-Efficient Meta-Reinforcement Learning]()
 
 ## Instructions
 
@@ -10,4 +10,4 @@ To run the codes in this repository, you only need a working Jupyter installatio
 
 ## Troubleshooting
 
-If you have any trouble running those codes or have any question about the paper, please email [Leonardo F. Toso](mailto:lt2879@columbia.edu).
+If you have any trouble running those codes or have any question about the paper, please email [Donglin Zhan](mailto:dz2478@columbia.edu).
